@@ -1,7 +1,7 @@
 Description of the Program:
 
-CarAI is a digital car mechanic powered by GPT-4. At its core, the program is designed to make car diagnostics user-friendly. 
-Through voice or text, users can converse with CarAI, which taps into a vehicle's OBD-II system to retrieve Diagnostic Trouble Codes (DTCs).
+CarSoul-AI is a digital car mechanic powered by GPT-4. At its core, the program is designed to make car diagnostics user-friendly. 
+Through voice or text, users can converse with CarSoul-AI, which taps into a vehicle's OBD-II system to retrieve Diagnostic Trouble Codes (DTCs).
 It then leverages the intelligence of GPT-4 to interpret these codes, offering clear insights and solutions.
 Essentially, it simplifies the often intricate realm of car diagnostics into a casual chat, making car care more accessible to all.
 
@@ -12,7 +12,7 @@ Essentially, it simplifies the often intricate realm of car diagnostics into a c
 
 3) Integration of Multiple Modules: The program is a testament to the power of combining distinct modules — voice recognition, text-to-speech, AI interfacing, and OBD-II communication.
 
-4) Error Handling: Using Python's try and except blocks, I learned to develop a resilient system that provides useful feedback instead of crashing upon encountering issues.
+4) Error Handling: Using Python's try-and-accept blocks, I learned to develop a resilient system that provides useful feedback instead of crashing upon encountering issues.
 
 5) Advanced Methodologies: Crafting intricate functions, handling variables (both global and local), and orchestrating a smooth user flow became second nature during this project.
 
@@ -86,7 +86,7 @@ Make sure your program doesn't terminate unexpectedly. Ensure users can exit smo
 You might want to add additional features or integrations based on user feedback or personal insights.
 
 Remarks:
-Creating CarAI, like any software, is a blend of technical know-how, user empathy, and iterative refinement. Remember, the key is to start small, build step-by-step, 
+Creating CarSoul-AI, like any software, is a blend of technical know-how, user empathy, and iterative refinement. Remember, the key is to start small, build step-by-step, 
 and continually enhance based on feedback and learning. Happy coding!
 
 - BILLY T
